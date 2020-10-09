@@ -5,7 +5,7 @@ tags:
 
 # Get started: create an FAQ chatbot for your app
 
-An FAQ chatbot is useful when you have information that doesn't change a lot. This can range from product manuals to information about your working hours or address. To create a chatbot you need to prepare your knowledge base on the Azure side and create some resources. On the OutSystems side you add a chatbot block with the UI and logic and set the block to communicate with Azure.
+A FAQ chatbot is useful when you have information that doesn't change a lot. This can range from product manuals to information about your working hours or address. To create a chatbot you need to prepare your knowledge base on the Azure side and create some resources. On the OutSystems side you add a chatbot block with the UI and logic and set the block to communicate with Azure.
 
 This guide is for the [Reactive Web App version of the component](https://www.outsystems.com/forge/component-overview/7315/outsystems-ai-chatbot-reactive). The version for Traditional Web app is similar, with more focus on the server-side logic.
 
